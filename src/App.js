@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there, you dick! And fuck you! <br>
+          Hi there, you dick! And fuck you!
+		  </p>
+		  <p>
 			 P.S.: You really suck.
         </p>
         <a
