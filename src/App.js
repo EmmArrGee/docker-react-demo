@@ -8,6 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi there, you dick! And fuck you!
+		  </p>
+		  <p>
+			 P.S.: You really suck.
         </p>
         <a
           className="App-link"
